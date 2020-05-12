@@ -5,7 +5,7 @@ tested on python3
 
 how to use
 
-set path 
+set path =
 setx path "%path%;/cat-for-windows/"
 
 cat file location
